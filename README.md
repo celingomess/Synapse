@@ -103,11 +103,11 @@ Módulo de visualização que processa os dados armazenados via SQL Aggregation 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Marcelo Gomes** como prova de conceito de arquitetura robusta em PHP.
+Desenvolvido por **Marcelo Gomes**.
 
 > *"Software engineering is not just about code, it's about data integrity and system resilience."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcelogomes) ```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcelo-gomes-santos/) ```
 
 ---
 

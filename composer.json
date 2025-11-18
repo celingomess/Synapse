@@ -1,0 +1,12 @@
+{
+    "name": "marcelo/projeto-feedback",
+    "authors": [
+        {
+            "name": "Marcelo",
+            "email": "marcelogsantos201@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}

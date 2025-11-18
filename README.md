@@ -58,8 +58,8 @@ O sistema opera em um fluxo de **Ingestão em 3 Estágios**:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/celingomess/synapse-crm.git](https://github.com/celingomess/synapse-crm.git)
-    cd synapse-crm
+    git clone [https://github.com/celingomess/Synapse.git](https://github.com/celingomess/Synapse.git)
+    cd synapse
     ```
 
 2.  **Instale as dependências:**
